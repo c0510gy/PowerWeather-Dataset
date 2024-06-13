@@ -29,7 +29,7 @@ The repository contains the following files:
     - `/PECAN-Weather-test/CA_discretized.csv`
     - `/PECAN-Weather-test/TX_discretized.csv`
     - `/PECAN-Weather-test/NY_discretized.csv`
-- Discretized versions:
+- Continuous versions:
   - Train sets
     - `/PECAN-Weather-test/TX.csv`
     - `/PECAN-Weather-test/CA.csv`
