@@ -1,5 +1,7 @@
 # PowerWeather Dataset: Weather Prediction Using Graphical Learning Models and Household Energy Data
 
+This project was conducted as part of the course CS274B Learning in Graphical Models at the University of California, Irvine, Spring 2024, taught by Prof. Erik Sudderth.
+
 ## Overview
 
 This project aims to develop a predictive model for weather conditions using graphical learning algorithms applied to the PowerWeather Dataset. By correlating detailed records of household energy consumption with historical weather data, we leverage this dataset to infer and predict weather patterns.
